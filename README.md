@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>SpectraLogger - A Professional Keylogger</title>
