@@ -21,14 +21,14 @@ SpectraLogger is a Python-based keylogger that provides a secure and efficient w
 **Installation**
 ---------------
 
-1. **Clone the repository**: `git clone https://github.com/your-username/spectralogger.git`
+1. **Clone the repository**: `git clone https://github.com/SKumar8080/SpectraLogger-.git`
 2. **Install dependencies**: `pip install -r requirements.txt`
-3. **Run the keylogger**: `python spectralogger.py`
+3. **Run the keylogger**: `python GUIlogger.py`
 
 **Usage**
 ---------
 
-1. **Run the keylogger**: `python spectralogger.py`
+1. **Run the keylogger**: `sudo python3 GUIlogger.py`
 2. **Monitor keyboard input**: Watch as SpectraLogger captures keyboard input in real-time.
 
 **License**
@@ -49,7 +49,7 @@ Contributions are welcome! If you'd like to contribute to SpectraLogger, please 
 **Author**
 ---------
 
-SpectraLogger was created by **[Your Name]**, a professional hacker and security expert.
+SpectraLogger was created by **[S.Kumar]**, a professional hacker and security expert.
 
 **Note**
 -----
